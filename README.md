@@ -100,8 +100,11 @@ File
 ### 3. Create the Database
 
 ```sql
-CREATE DATABASE fullstack_java;
-USE fullstack_java;
+CREATE TABLE IF NOT EXISTS users (
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(100) NOT NULL,
+email VARCHAR(100) NOT NULL
+);
 ```
 
 Create the required table(s) according to your project.
