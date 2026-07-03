@@ -97,7 +97,7 @@ File
 → Existing Projects into Workspace
 ```
 
-### 3. Create the Database
+### 3. Create the Table
 
 ```sql
 CREATE TABLE IF NOT EXISTS users (
