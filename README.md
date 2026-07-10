@@ -19,17 +19,6 @@ A Full Stack Java web application that demonstrates **CRUD (Create, Read, Update
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- JSP
-
-### Backend
-- Java
-- Servlets
-- JDBC
-
 ### Database
 - MySQL
 
